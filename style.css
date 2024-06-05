@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid black;
+}
+
+#mon {
+  display: none;
+  color: lightblue;
+}
+
+#tok {
+  display: none;
+}
